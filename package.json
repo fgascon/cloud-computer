@@ -1,0 +1,20 @@
+{
+  "name": "cloud-computer",
+  "description": "An interface to your private virtual computer in the cloud",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fgascon/cloud-computer.git"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "license" : "MIT",
+  "author": {
+    "name": "Frédéric Gascon",
+    "email": "frederic.gascon@gmail.com"
+  }
+}
