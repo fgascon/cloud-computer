@@ -7,12 +7,16 @@
     "url": "git://github.com/fgascon/cloud-computer.git"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "~3.2.0",
+    "optimist": "~0.4.0",
+    "browserify": "~2.13.2"
+  },
   "devDependencies": {},
   "engines": {
     "node": ">=0.8.0"
   },
-  "license" : "MIT",
+  "license": "MIT",
   "author": {
     "name": "Frédéric Gascon",
     "email": "frederic.gascon@gmail.com"
