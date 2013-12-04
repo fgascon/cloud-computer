@@ -7,6 +7,9 @@ lib-cov
 *.pid
 *.gz
 
+.project
+.settings
+
 pids
 logs
 results
